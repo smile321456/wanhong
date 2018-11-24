@@ -3,13 +3,13 @@
   "updateUrl":"http://appdown.1066wan.com/wanhong_download/",
   "branches":[
      {
-      "code":"1001",
-      "version":"1.0.1",
+      "code":"1002",
+      "version":"1.0.2",
       "status":"release"
     },
       {
-      "code":"1002",
-      "version":"1.0.2",
+      "code":"1003",
+      "version":"1.0.3",
       "status":"release"
     }
   ]
